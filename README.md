@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/shwetashah791/LEETCODE/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/shwetashah791/Leetcode/tree/master/0169-majority-element) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shwetashah791/LEETCODE/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0189-rotate-array](https://github.com/shwetashah791/LEETCODE/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/shwetashah791/LEETCODE/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/shwetashah791/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/shwetashah791/LEETCODE/tree/master/0212-word-search-ii) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shwetashah791/LEETCODE/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/shwetashah791/LEETCODE/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/shwetashah791/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/shwetashah791/LEETCODE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shwetashah791/LEETCODE/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/shwetashah791/LEETCODE/tree/master/0392-is-subsequence) |
 ## Sorting
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/shwetashah791/LEETCODE/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/shwetashah791/LEETCODE/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/shwetashah791/LEETCODE/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/shwetashah791/LEETCODE/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/shwetashah791/LEETCODE/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/shwetashah791/LEETCODE/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/shwetashah791/LEETCODE/tree/master/0231-power-of-two) |
