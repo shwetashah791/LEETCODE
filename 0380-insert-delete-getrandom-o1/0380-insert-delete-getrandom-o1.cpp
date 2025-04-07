@@ -29,6 +29,7 @@ private:
 unordered_map<int,int>d;
 vector<int> q;
 };
+
 /**
  * Your RandomizedSet object will be instantiated and called as such:
  * RandomizedSet* obj = new RandomizedSet();
